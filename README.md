@@ -1,10 +1,10 @@
 # Uber_Trip_Analysis
 
-![Uber Trip Dashboard](./sss.PNG)
+
 
 ---
 
-## 📊 Project Overview
+##  Project Overview
 
 This Power BI dashboard analyzes Uber trip data for June 2024, offering key insights into trip volume, customer behavior, and ride patterns across time and geography.
 
